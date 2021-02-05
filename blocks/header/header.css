@@ -1,0 +1,15 @@
+.header {
+  background-color: #2A2C2F;
+  min-height: 52px;
+  display: flex;
+  width: calc(100% - 48px * 2);
+  justify-content: space-between;
+  padding-top: 28px;
+}
+
+@media screen and (max-width:320px) {
+  .header {
+    min-height: 42px;
+  }
+}
+
