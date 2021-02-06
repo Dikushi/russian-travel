@@ -1,0 +1,9 @@
+@media screen and (max-width:320px) {
+  .footer__margin {
+    margin-bottom: 32px
+  }
+
+  .footer__margin:last-of-type {
+    margin: 0;
+  }
+}
