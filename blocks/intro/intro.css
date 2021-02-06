@@ -1,6 +1,8 @@
 .intro {
   display: flex;
   flex-direction: column;
-  width: calc(100% - 148px * 2);
-  margin: 0 auto;
+  align-self: center;
+  width: calc(100% - (148px * 2));
+  padding-top: 92px;
+  box-sizing: border-box;
 }

@@ -1,0 +1,8 @@
+.places {
+  display: flex;
+  flex-direction: column;
+  width: calc(100% - (148px * 2));
+  box-sizing: border-box;
+  padding-top: 92px;
+  align-self: center;
+}
