@@ -2,13 +2,12 @@
   display: grid;
   grid-template-columns: 460px 1fr;
   grid-template-areas:
-  "title website"
-  "image paragraphs";
+    "title website"
+    "image paragraphs";
   gap: 48px 40px;
   margin-bottom: 80px;
   align-items: start;
   justify-content: start;
-
 }
 
 .place:last-of-type {
@@ -35,10 +34,10 @@
     gap: 32px 0;
     grid-template-columns: 1fr;
     grid-template-areas:
-    "title"
-    "website"
-    "image"
-    "paragraphs";
+      "title"
+      "website"
+      "image"
+      "paragraphs";
     margin-bottom: 50px;
   }
 }

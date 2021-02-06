@@ -9,6 +9,5 @@
   .footer__links {
     width: calc(100% - (16px * 2));
     flex-direction: column;
-  
   }
 }
