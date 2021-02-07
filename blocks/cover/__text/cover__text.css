@@ -23,21 +23,3 @@
 .cover__text:hover::before {
     opacity: 0.8;
 }
-
-@media screen and (max-width:1024px) {
-  .cover__text {
-
-  }
-}
-
-@media screen and (max-width:768px) {
-  .cover__text {
-
-  }
-}
-
-@media screen and (max-width:320px) {
-  .cover__text {
-
-  }
-}
