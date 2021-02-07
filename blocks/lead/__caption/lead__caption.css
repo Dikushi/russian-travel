@@ -1,4 +1,5 @@
 .lead__caption {
+  margin: 0;
   align-self: flex-start;
   text-transform: uppercase;
   font-size: 10px;

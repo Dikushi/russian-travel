@@ -4,7 +4,6 @@
   align-self: center;
   max-width: 100%;
   width: calc(100% - (48px * 2));
-  min-height: 52px;
   padding-top: 28px;
   box-sizing: border-box;
   font-size: 24px;
