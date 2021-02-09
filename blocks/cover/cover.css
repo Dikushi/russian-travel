@@ -9,7 +9,7 @@
   background-size: cover;
   background-position: center;
   min-height: 740px;
-  margin-top: 92px;
+  margin-top: 92px; 
 }
 
 @media screen and (max-width:1024px) {
